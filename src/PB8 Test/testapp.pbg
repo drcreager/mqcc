@@ -1,0 +1,7 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "testapp.pbl" "";
+@end;
+@begin Objects
+ "ddw_ss0p_tkoclient.srd" "testapp.pbl";
+@end;

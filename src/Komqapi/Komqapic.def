@@ -1,0 +1,31 @@
+NAME	     KOMQAPIC.dll
+DESCRIPTION  'The Coca-Cola Company MQ Series Wrapper'
+
+;CODE	     PRELOAD MOVEABLE DISCARDABLE
+;DATA	     PRELOAD MOVEABLE MULTIPLE
+
+HEAPSIZE     2048
+STACKSIZE    2048
+
+EXPORTS
+     init          = _init@4
+	 initq         = _initq@24
+	 put           = _put@72
+	 puta          = _puta@40
+	 get           = _get@88
+	 geta          = _geta@36
+	 commit        = _commit@0
+	 rollback      = _rollback@0
+	 komq_close    = _komq_close@4
+     disconnect    = _disconnect@0
+	 getlasterror  = _getlasterror@16
+     getreasoncode = _getreasoncode@12
+          
+     getAttrLng    = _getAttrLng@4
+     getAttrStr    = _getAttrStr@4
+     getAttrStr2   = _getAttrStr2@8
+     setAttrLng    = _setAttrLng@8
+     setAttrStr    = _setAttrStr@8
+
+
+                

@@ -1,0 +1,72 @@
+      CMCF0000            
+      CMCF0001        
+      CMCF0004       
+      CMCF0006              In Production: not in dev
+      CMCF0007        
+      CMCF0008       
+      CMCF0010 
+      CMCF0014              In Production: not in dev
+      CMCF0206                                                    
+      CMCF0400               
+      CMCF0401                     
+      CMCF0402                   
+      CMCF0403                   
+      CMCF0404                     
+      CMCF0405                     
+      CMCF0406                       
+      CMCF0407                      
+      CMCF0408                        
+      CMCF0409                      
+      CMCF0410              unfinished:  Resource Object (enq/deq)
+      CMCF0411                           
+      CMCF0412                         
+      CMCF0415                      
+      CMCF0417              unfinished:  IO processor for var length records
+      CMCF0501              Testing utility - already in-production
+      CMCF0502              Cobol Language Pre-Processor - already in-production
+      CMCF0503              Endevor Output Filter
+      CMMQ0002
+      CMMQ0003
+      CMMQ0005
+      CMMQ0009              differences is solely in the comments
+      CMMQ0011              In Production: not in dev
+      CMMQ0012              In Production: not in dev
+      CMMQ0013
+      CMMQ0014
+      CMMQ0100            
+      CMMQ0101              
+      CMMQ0102              
+      CMMQ0103             
+      CMMQ0104              
+      CMMQ0105               
+      CMMQ0106         
+      CMMQ0107        
+      CMMQ0108        
+      CMMQ0109         
+      CMMQ0110         
+      CMMQ0111           
+      CMMQ0112       
+      CMMQ0113         
+      CMMQ0114        
+      CMMQ0115         
+      CMMQ0116             
+      CMMQ0117            
+      CMMQ0118           
+      CMMQ0119           
+      CMMQ0120           
+      CMMQ0122         
+      CMMQ0123              Sample Code: Browse: put in DEV - Do not stow
+      CMMQ0200             
+      CMMQ0202              Batch Mgt: put in DEV - Do not stow
+      CMMQ0203          
+      CMMQ0204           
+      CMMQ0205             
+      CMMQ0206             
+      CMMQ0207              ISPSLIB Member for non-prod code - Do not stow                             
+      CMMQ0300                            
+      CMMQ0301            
+      CMMQ0303           
+      CMXX0001              Unfinished: Output Exit code: put in DEV - Do not stow
+      CMXX0002              Sample Code: Use of the MQINQ command: put in DEV - Do not stow
+      CMXX0003              Sample Code: Illustrating the ESU concept: put in DEV - Do not stow
+      CMXX0004              TESTING code to simulate receiving ASCII messages: put in DEV - Do not stow

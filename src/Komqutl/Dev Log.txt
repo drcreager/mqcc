@@ -1,0 +1,23 @@
+01) The ReturnReceipt=None is still sending return receipts.
+
+02) Complete development of CBlockingSrvc::Deblock as follows:
+    3.1)  Handle it if the file name is from a foreign OS
+    3.2)  Handle it if there is no XML Document Header
+
+03) Convert PutFilesSrvc to Unix
+
+04) The RELEASE compile has a bug that causes GPFs
+
+05) Confirm restart processing in KOMQ Put | Get is working.
+
+06) Multiple copies of the _spawn code
+
+07) multiple copies of the tmpnam code
+
+=== 2002
+
+10) Blocksize=2000000 on receiver when blocksize=2000 on sender 
+    results in deblocking errors.
+
+11) Reoccurance of Item 01 but the records sent appear to be empty
+

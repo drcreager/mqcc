@@ -1,0 +1,9 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "genapp.pbl" "";
+@end;
+@begin Objects
+ "genapp.sra" "genapp.pbl";
+ "m_genapp_main.srm" "genapp.pbl";
+ "w_genapp_main.srw" "genapp.pbl";
+@end;
